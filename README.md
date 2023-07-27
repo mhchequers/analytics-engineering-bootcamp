@@ -20,3 +20,9 @@ pip install \
   dbt-bigquery \
   dbt-trino
 ```
+
+### Navigate to dbt project
+
+```
+cd ae_bootcamp/
+```
