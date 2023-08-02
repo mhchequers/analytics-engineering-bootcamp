@@ -21,6 +21,12 @@ pip install \
   dbt-trino
 ```
 
+Or...
+
+```
+python3 -m pip install -r requirements.txt
+```
+
 ### Navigate to dbt project
 
 ```
